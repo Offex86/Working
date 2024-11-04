@@ -1,6 +1,6 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
-let password = 'deepu';
+let password = '72fd3a47-9740-4a5b-8026-3e114bdc7223';
 
 //Find proxyIP : https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
 let proxyIP = ['bpb.radically.pro'];
